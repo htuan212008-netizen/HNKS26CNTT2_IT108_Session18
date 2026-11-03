@@ -13,4 +13,6 @@ position: Relative
 margin-top: 10px
 ```
 ## Phần 3. Kiểm thử
+Do phần tử bị gán thuộc tính !important
 
+=> Kiếm tra tab styles trong F12, tìm dòng thuộc tính bị gạch ngang, điều chỉnh lại thuộc tính position (chuyển về **relative** hoặc **static**)
