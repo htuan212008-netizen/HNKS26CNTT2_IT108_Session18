@@ -1,4 +1,4 @@
-# <h1 align="center">Bài 5 : Tối ưu tiện ích mở rộng cho hệ thống điều phối vận tải</h1>
+# <h1 align="center">Bài 6 : Kiểm tra và tối ưu hiệu năng Portal</h1>
 ## Phần 1: Phân tích
 Nút thắt cổ chai: Do file ảnh bản đồ dung lượng quá lớn chưa nén kết hợp với các Request lỗi (Status 404) gây tốn thời gian chờ (timeout).
 ## Phần 2: Triển khai
